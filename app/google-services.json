@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "899162610902",
+    "firebase_url": "https://ghrcediary.firebaseio.com",
+    "project_id": "ghrcediary",
+    "storage_bucket": "ghrcediary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899162610902:android:49a9869b8e9aa405",
+        "android_client_info": {
+          "package_name": "com.akandro.www.ghrcediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899162610902-u5hk1uj0r71egjsn2tefnirqpt4cnvsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8GYA6tUyKO_j-U3Na1wxlKOPweecUcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
